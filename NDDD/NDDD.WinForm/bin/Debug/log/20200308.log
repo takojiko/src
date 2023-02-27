@@ -1,0 +1,56 @@
+2020-03-08 16:59:14,658 [1] [DEBUG] (Main) - デバッグのログ
+2020-03-08 16:59:14,693 [1] [INFO ] (Main) - インフォのログ
+2020-03-08 16:59:14,694 [1] [WARN ] (Main) - 警告のログ
+2020-03-08 16:59:14,694 [1] [ERROR] (Main) - エラーのログ
+2020-03-08 16:59:14,695 [1] [FATAL] (Main) - 致命的なログ
+2020-03-08 16:59:14,861 [1] [INFO ] (BaseForm_Load) - open:LoginView
+2020-03-08 16:59:18,051 [1] [INFO ] (BaseForm_Load) - open:LatestView
+2020-03-08 16:59:20,640 [1] [ERROR] (ExceptionProc) - オブジェクト参照がオブジェクト インスタンスに設定されていません。
+System.NullReferenceException: オブジェクト参照がオブジェクト インスタンスに設定されていません。
+   場所 NDDD.WinForm.ViewModels.LatestViewModel.Search() 場所 C:\Users\anderson\Desktop\コンテンツ_20191015_続ドメイン\NDDD\NDDD.WinForm\ViewModels\LatestViewModel.cs:行 58
+   場所 NDDD.WinForm.Views.LatestView.SearchButton_Click(Object sender, EventArgs e) 場所 C:\Users\anderson\Desktop\コンテンツ_20191015_続ドメイン\NDDD\NDDD.WinForm\Views\LatestView.cs:行 35
+2020-03-08 16:59:26,877 [1] [INFO ] (BaseForm_FormClosed) - close:LatestView
+2020-03-08 16:59:27,782 [1] [INFO ] (BaseForm_FormClosed) - close:LoginView
+2020-03-08 16:59:33,260 [1] [DEBUG] (Main) - デバッグのログ
+2020-03-08 16:59:33,287 [1] [INFO ] (Main) - インフォのログ
+2020-03-08 16:59:33,287 [1] [WARN ] (Main) - 警告のログ
+2020-03-08 16:59:33,288 [1] [ERROR] (Main) - エラーのログ
+2020-03-08 16:59:33,288 [1] [FATAL] (Main) - 致命的なログ
+2020-03-08 16:59:33,380 [1] [INFO ] (BaseForm_Load) - open:LoginView
+2020-03-08 16:59:35,770 [1] [INFO ] (BaseForm_Load) - open:LatestView
+2020-03-08 17:01:12,772 [1] [DEBUG] (Main) - デバッグのログ
+2020-03-08 17:01:12,815 [1] [INFO ] (Main) - インフォのログ
+2020-03-08 17:01:12,816 [1] [WARN ] (Main) - 警告のログ
+2020-03-08 17:01:12,816 [1] [ERROR] (Main) - エラーのログ
+2020-03-08 17:01:12,816 [1] [FATAL] (Main) - 致命的なログ
+2020-03-08 17:01:12,914 [1] [INFO ] (BaseForm_Load) - open:LoginView
+2020-03-08 17:01:15,091 [1] [INFO ] (BaseForm_Load) - open:LatestView
+2020-03-08 17:01:29,521 [1] [INFO ] (BaseForm_FormClosed) - close:LatestView
+2020-03-08 17:01:29,965 [1] [INFO ] (BaseForm_FormClosed) - close:LoginView
+2020-03-08 17:01:35,956 [1] [DEBUG] (Main) - デバッグのログ
+2020-03-08 17:01:35,986 [1] [INFO ] (Main) - インフォのログ
+2020-03-08 17:01:35,986 [1] [WARN ] (Main) - 警告のログ
+2020-03-08 17:01:35,986 [1] [ERROR] (Main) - エラーのログ
+2020-03-08 17:01:35,987 [1] [FATAL] (Main) - 致命的なログ
+2020-03-08 17:01:36,090 [1] [INFO ] (BaseForm_Load) - open:LoginView
+2020-03-08 17:01:38,769 [1] [INFO ] (BaseForm_Load) - open:LatestView
+2020-03-08 17:02:07,629 [1] [INFO ] (BaseForm_FormClosed) - close:LatestView
+2020-03-08 17:02:08,322 [1] [INFO ] (BaseForm_FormClosed) - close:LoginView
+2020-03-08 17:19:44,086 [1] [DEBUG] (Main) - デバッグのログ
+2020-03-08 17:19:44,129 [1] [INFO ] (Main) - インフォのログ
+2020-03-08 17:19:44,130 [1] [WARN ] (Main) - 警告のログ
+2020-03-08 17:19:44,131 [1] [ERROR] (Main) - エラーのログ
+2020-03-08 17:19:44,131 [1] [FATAL] (Main) - 致命的なログ
+2020-03-08 17:19:44,277 [1] [INFO ] (BaseForm_Load) - open:LoginView
+2020-03-08 17:19:46,295 [1] [INFO ] (BaseForm_Load) - open:LatestView
+2020-03-08 17:19:56,386 [1] [INFO ] (BaseForm_FormClosed) - close:LatestView
+2020-03-08 17:19:57,622 [1] [INFO ] (BaseForm_FormClosed) - close:LoginView
+2020-03-08 17:20:07,138 [1] [DEBUG] (Main) - デバッグのログ
+2020-03-08 17:20:07,415 [1] [INFO ] (Main) - インフォのログ
+2020-03-08 17:20:07,415 [1] [WARN ] (Main) - 警告のログ
+2020-03-08 17:20:07,416 [1] [ERROR] (Main) - エラーのログ
+2020-03-08 17:20:07,417 [1] [FATAL] (Main) - 致命的なログ
+2020-03-08 17:20:07,579 [1] [INFO ] (BaseForm_Load) - open:LoginView
+2020-03-08 17:20:09,667 [1] [INFO ] (BaseForm_Load) - open:LatestView
+2020-03-08 17:20:23,152 [1] [INFO ] (BaseForm_FormClosed) - close:LatestView
+2020-03-08 17:20:23,933 [1] [INFO ] (BaseForm_FormClosed) - close:LoginView
