@@ -1,0 +1,440 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<coverage line-rate="0.2672" branch-rate="0.1666" version="1.9" timestamp="1677127969" lines-covered="31" lines-valid="116" branches-covered="2" branches-valid="12">
+  <sources>
+    <source>C:\Users\anderson\</source>
+  </sources>
+  <packages>
+    <package name="ファクトリーメソッド" line-rate="0.1923" branch-rate="0.1666" complexity="27">
+      <classes>
+        <class name="ファクトリーメソッド.Form1" filename="Desktop\ファクトリーメソッド\ファクトリーメソッド\Form1.cs" line-rate="0" branch-rate="1" complexity="2">
+          <methods>
+            <method name="GetButton_Click" signature="(System.Object,System.EventArgs)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="19" hits="0" branch="False" />
+                <line number="20" hits="0" branch="False" />
+                <line number="21" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="8" hits="0" branch="False" />
+                <line number="10" hits="0" branch="False" />
+                <line number="11" hits="0" branch="False" />
+                <line number="12" hits="0" branch="False" />
+                <line number="13" hits="0" branch="False" />
+                <line number="15" hits="0" branch="False" />
+                <line number="16" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="19" hits="0" branch="False" />
+            <line number="20" hits="0" branch="False" />
+            <line number="21" hits="0" branch="False" />
+            <line number="8" hits="0" branch="False" />
+            <line number="10" hits="0" branch="False" />
+            <line number="11" hits="0" branch="False" />
+            <line number="12" hits="0" branch="False" />
+            <line number="13" hits="0" branch="False" />
+            <line number="15" hits="0" branch="False" />
+            <line number="16" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="ファクトリーメソッド.Form1" filename="Desktop\ファクトリーメソッド\ファクトリーメソッド\Form1.Designer.cs" line-rate="0" branch-rate="0" complexity="6">
+          <methods>
+            <method name="Dispose" signature="(System.Boolean)" line-rate="0" branch-rate="0" complexity="4">
+              <lines>
+                <line number="15" hits="0" branch="False" />
+                <line number="16" hits="0" branch="True" condition-coverage="0% (0/4)">
+                  <conditions>
+                    <condition number="2" type="jump" coverage="0%" />
+                    <condition number="18" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="17" hits="0" branch="False" />
+                <line number="18" hits="0" branch="False" />
+                <line number="19" hits="0" branch="False" />
+                <line number="20" hits="0" branch="False" />
+                <line number="21" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="InitializeComponent" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="30" hits="0" branch="False" />
+                <line number="31" hits="0" branch="False" />
+                <line number="32" hits="0" branch="False" />
+                <line number="33" hits="0" branch="False" />
+                <line number="37" hits="0" branch="False" />
+                <line number="38" hits="0" branch="False" />
+                <line number="39" hits="0" branch="False" />
+                <line number="40" hits="0" branch="False" />
+                <line number="41" hits="0" branch="False" />
+                <line number="42" hits="0" branch="False" />
+                <line number="43" hits="0" branch="False" />
+                <line number="44" hits="0" branch="False" />
+                <line number="48" hits="0" branch="False" />
+                <line number="49" hits="0" branch="False" />
+                <line number="50" hits="0" branch="False" />
+                <line number="51" hits="0" branch="False" />
+                <line number="52" hits="0" branch="False" />
+                <line number="53" hits="0" branch="False" />
+                <line number="54" hits="0" branch="False" />
+                <line number="55" hits="0" branch="False" />
+                <line number="59" hits="0" branch="False" />
+                <line number="60" hits="0" branch="False" />
+                <line number="61" hits="0" branch="False" />
+                <line number="62" hits="0" branch="False" />
+                <line number="63" hits="0" branch="False" />
+                <line number="64" hits="0" branch="False" />
+                <line number="65" hits="0" branch="False" />
+                <line number="66" hits="0" branch="False" />
+                <line number="67" hits="0" branch="False" />
+                <line number="69" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="8" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="15" hits="0" branch="False" />
+            <line number="16" hits="0" branch="True" condition-coverage="0% (0/4)">
+              <conditions>
+                <condition number="2" type="jump" coverage="0%" />
+                <condition number="18" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="17" hits="0" branch="False" />
+            <line number="18" hits="0" branch="False" />
+            <line number="19" hits="0" branch="False" />
+            <line number="20" hits="0" branch="False" />
+            <line number="21" hits="0" branch="False" />
+            <line number="30" hits="0" branch="False" />
+            <line number="31" hits="0" branch="False" />
+            <line number="32" hits="0" branch="False" />
+            <line number="33" hits="0" branch="False" />
+            <line number="37" hits="0" branch="False" />
+            <line number="38" hits="0" branch="False" />
+            <line number="39" hits="0" branch="False" />
+            <line number="40" hits="0" branch="False" />
+            <line number="41" hits="0" branch="False" />
+            <line number="42" hits="0" branch="False" />
+            <line number="43" hits="0" branch="False" />
+            <line number="44" hits="0" branch="False" />
+            <line number="48" hits="0" branch="False" />
+            <line number="49" hits="0" branch="False" />
+            <line number="50" hits="0" branch="False" />
+            <line number="51" hits="0" branch="False" />
+            <line number="52" hits="0" branch="False" />
+            <line number="53" hits="0" branch="False" />
+            <line number="54" hits="0" branch="False" />
+            <line number="55" hits="0" branch="False" />
+            <line number="59" hits="0" branch="False" />
+            <line number="60" hits="0" branch="False" />
+            <line number="61" hits="0" branch="False" />
+            <line number="62" hits="0" branch="False" />
+            <line number="63" hits="0" branch="False" />
+            <line number="64" hits="0" branch="False" />
+            <line number="65" hits="0" branch="False" />
+            <line number="66" hits="0" branch="False" />
+            <line number="67" hits="0" branch="False" />
+            <line number="69" hits="0" branch="False" />
+            <line number="8" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="ファクトリーメソッド.Form1ViewModel" filename="Desktop\ファクトリーメソッド\ファクトリーメソッド\Form1ViewModel.cs" line-rate="1" branch-rate="0.5" complexity="5">
+          <methods>
+            <method name="get_Label1Text" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="18" hits="6" branch="False" />
+              </lines>
+            </method>
+            <method name="set_Label1Text" signature="(System.String)" line-rate="1" branch-rate="0.5" complexity="2">
+              <lines>
+                <line number="20" hits="1" branch="False" />
+                <line number="21" hits="1" branch="False" />
+                <line number="22" hits="1" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="15" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+                <line number="23" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name="GetButtonClick" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="29" hits="1" branch="False" />
+                <line number="30" hits="1" branch="False" />
+                <line number="31" hits="1" branch="False" />
+                <line number="32" hits="1" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(ファクトリーメソッド.Services.ProductService)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="1" branch="False" />
+                <line number="11" hits="1" branch="False" />
+                <line number="12" hits="1" branch="False" />
+                <line number="13" hits="1" branch="False" />
+                <line number="15" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="18" hits="6" branch="False" />
+            <line number="20" hits="1" branch="False" />
+            <line number="21" hits="1" branch="False" />
+            <line number="22" hits="1" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="15" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="23" hits="1" branch="False" />
+            <line number="29" hits="1" branch="False" />
+            <line number="30" hits="1" branch="False" />
+            <line number="31" hits="1" branch="False" />
+            <line number="32" hits="1" branch="False" />
+            <line number="10" hits="1" branch="False" />
+            <line number="11" hits="1" branch="False" />
+            <line number="12" hits="1" branch="False" />
+            <line number="13" hits="1" branch="False" />
+            <line number="15" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ファクトリーメソッド.Program" filename="Desktop\ファクトリーメソッド\ファクトリーメソッド\Program.cs" line-rate="0.11109999999999999" branch-rate="1" complexity="3">
+          <methods>
+            <method name="get_Kind" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="5" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="Main" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="0" branch="False" />
+                <line number="15" hits="0" branch="False" />
+                <line number="16" hits="0" branch="False" />
+                <line number="17" hits="0" branch="False" />
+                <line number="18" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="Application_ThreadException" signature="(System.Object,System.Threading.ThreadExceptionEventArgs)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="21" hits="0" branch="False" />
+                <line number="22" hits="0" branch="False" />
+                <line number="23" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="5" hits="2" branch="False" />
+            <line number="12" hits="0" branch="False" />
+            <line number="15" hits="0" branch="False" />
+            <line number="16" hits="0" branch="False" />
+            <line number="17" hits="0" branch="False" />
+            <line number="18" hits="0" branch="False" />
+            <line number="21" hits="0" branch="False" />
+            <line number="22" hits="0" branch="False" />
+            <line number="23" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="ファクトリーメソッド.ApplicationConfiguration" filename="Desktop\ファクトリーメソッド\ファクトリーメソッド\System.Windows.Forms.Analyzers.CSharp\System.Windows.Forms.Generators.ApplicationConfigurationGenerator\ApplicationConfiguration.g.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="Initialize" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="24" hits="0" branch="False" />
+                <line number="25" hits="0" branch="False" />
+                <line number="26" hits="0" branch="False" />
+                <line number="27" hits="0" branch="False" />
+                <line number="28" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="24" hits="0" branch="False" />
+            <line number="25" hits="0" branch="False" />
+            <line number="26" hits="0" branch="False" />
+            <line number="27" hits="0" branch="False" />
+            <line number="28" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="ファクトリーメソッド.Services.ProductService" filename="Desktop\ファクトリーメソッド\ファクトリーメソッド\Services\ProductService.cs" line-rate="0.7142000000000001" branch-rate="0.5" complexity="2">
+          <methods>
+            <method name="Create" signature="()" line-rate="0.7142000000000001" branch-rate="0.5" complexity="2">
+              <lines>
+                <line number="9" hits="1" branch="False" />
+                <line number="12" hits="1" branch="False" />
+                <line number="15" hits="1" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="31" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+                <line number="16" hits="0" branch="False" />
+                <line number="17" hits="0" branch="False" />
+                <line number="20" hits="1" branch="False" />
+                <line number="21" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="9" hits="1" branch="False" />
+            <line number="12" hits="1" branch="False" />
+            <line number="15" hits="1" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="31" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="16" hits="0" branch="False" />
+            <line number="17" hits="0" branch="False" />
+            <line number="20" hits="1" branch="False" />
+            <line number="21" hits="1" branch="False" />
+          </lines>
+        </class>
+        <class name="ファクトリーメソッド.Services.ProductServiceFactory" filename="Desktop\ファクトリーメソッド\ファクトリーメソッド\Services\ProductServiceFactory.cs" line-rate="0" branch-rate="0" complexity="4">
+          <methods>
+            <method name="FactoryMethod" signature="(System.Int32)" line-rate="0" branch-rate="0" complexity="4">
+              <lines>
+                <line number="10" hits="0" branch="False" />
+                <line number="11" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="7" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="12" hits="0" branch="False" />
+                <line number="13" hits="0" branch="False" />
+                <line number="15" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="24" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="16" hits="0" branch="False" />
+                <line number="17" hits="0" branch="False" />
+                <line number="20" hits="0" branch="False" />
+                <line number="21" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="0" branch="False" />
+            <line number="11" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="7" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="12" hits="0" branch="False" />
+            <line number="13" hits="0" branch="False" />
+            <line number="15" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="24" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="16" hits="0" branch="False" />
+            <line number="17" hits="0" branch="False" />
+            <line number="20" hits="0" branch="False" />
+            <line number="21" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="ファクトリーメソッド.Data.ProductFake" filename="Desktop\ファクトリーメソッド\ファクトリーメソッド\Data\ProductFake.cs" line-rate="0" branch-rate="1" complexity="2">
+          <methods>
+            <method name="GetData" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="6" hits="0" branch="False" />
+                <line number="7" hits="0" branch="False" />
+                <line number="8" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="GetValidDate" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="0" branch="False" />
+                <line number="12" hits="0" branch="False" />
+                <line number="13" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="0" branch="False" />
+            <line number="7" hits="0" branch="False" />
+            <line number="8" hits="0" branch="False" />
+            <line number="11" hits="0" branch="False" />
+            <line number="12" hits="0" branch="False" />
+            <line number="13" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="ファクトリーメソッド.Data.ProductSqlServer" filename="Desktop\ファクトリーメソッド\ファクトリーメソッド\Data\ProductSqlServer.cs" line-rate="0" branch-rate="1" complexity="2">
+          <methods>
+            <method name="GetData" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="6" hits="0" branch="False" />
+                <line number="7" hits="0" branch="False" />
+                <line number="8" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="GetValidDate" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="0" branch="False" />
+                <line number="12" hits="0" branch="False" />
+                <line number="13" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="0" branch="False" />
+            <line number="7" hits="0" branch="False" />
+            <line number="8" hits="0" branch="False" />
+            <line number="11" hits="0" branch="False" />
+            <line number="12" hits="0" branch="False" />
+            <line number="13" hits="0" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="ファクトリーメソッド.TestProject1" line-rate="0.9166" branch-rate="1" complexity="2">
+      <classes>
+        <class name="AutoGeneratedProgram" filename=".nuget\packages\microsoft.net.test.sdk\17.3.2\build\netcoreapp2.1\Microsoft.NET.Test.Sdk.Program.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="Main" signature="(System.String[])" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="4" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="TestProject1.UnitTest1" filename="Desktop\ファクトリーメソッド\ファクトリーメソッド.TestProject1\UnitTest1.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="TestMethod1" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="1" branch="False" />
+                <line number="15" hits="1" branch="False" />
+                <line number="16" hits="1" branch="False" />
+                <line number="17" hits="1" branch="False" />
+                <line number="18" hits="1" branch="False" />
+                <line number="22" hits="1" branch="False" />
+                <line number="24" hits="1" branch="False" />
+                <line number="25" hits="1" branch="False" />
+                <line number="27" hits="1" branch="False" />
+                <line number="28" hits="1" branch="False" />
+                <line number="29" hits="1" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="14" hits="1" branch="False" />
+            <line number="15" hits="1" branch="False" />
+            <line number="16" hits="1" branch="False" />
+            <line number="17" hits="1" branch="False" />
+            <line number="18" hits="1" branch="False" />
+            <line number="22" hits="1" branch="False" />
+            <line number="24" hits="1" branch="False" />
+            <line number="25" hits="1" branch="False" />
+            <line number="27" hits="1" branch="False" />
+            <line number="28" hits="1" branch="False" />
+            <line number="29" hits="1" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>
